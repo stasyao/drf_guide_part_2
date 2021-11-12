@@ -2,6 +2,7 @@
 
 Статьи на Хабре:
 + [Django Rest Framework для начинающих: создаём API для записи и обновления данных (часть 1)](https://habr.com/ru/company/yandex_praktikum/blog/567564/)
++ Вторая часть ([готовится к публикации](https://gist.github.com/stasyao/f612d3ba8117f8d2a50bb77da6dc94f6/edit))
 
 Запускаем проект на своей машине: 
 
