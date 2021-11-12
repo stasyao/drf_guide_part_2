@@ -13,7 +13,7 @@
 5. Обновляем pip `python -m pip install --upgrade pip`
 6. Устанавливаем в виртуальном окружении зависимости для проекта `python -m pip install --no-cache-dir -r requirements.txt`
 7. Делаем миграции для создания базы данных `python manage.py migrate`
-8. Заполняем данными модели `Capital` и `auth.user` &mdash; `python manage.py loaddata fixture.json`
+8. Заполняем базу данными &mdash; `python manage.py loaddata fixture.json`
 9. Запускаем локальный сервер `python manage.py runserver`
 10. По адресу `http://localhost:8000` будет доступен `Browsable API` (наглядное представление того, как работает API проекта).  
 11. Чтобы управлять записями в БД через админку, создайте суперпользователя (`python manage.py createsuperuser`). Вход в админку `http://localhost:8000/admin`.  
