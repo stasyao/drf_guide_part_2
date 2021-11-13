@@ -24,6 +24,7 @@ class Writer(models.Model):
         to=Town,
         on_delete=models.SET_NULL,
         null=True,
+        to_field='name',
         related_name='writers',
         verbose_name='место рождения'
     )
