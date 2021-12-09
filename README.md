@@ -7,7 +7,7 @@
 Запускаем проект на своей машине: 
 
 1. Клонируем репозиторий `git clone https://github.com/stasyao/drf_guide_part_2`
-2. Переходим в папку с проектом `cd drf_guide_part_1` (здесь и далее приводятся команды в bash-терминале на машине под win)
+2. Переходим в папку с проектом `cd drf_guide_part_2` (здесь и далее приводятся команды в bash-терминале на машине под win)
 3. Устанавливаем виртуальное окружение `python -m venv env`
 4. Запускаем виртуальное окружение `source env/Scripts/activate`
 5. Обновляем pip `python -m pip install --upgrade pip`
